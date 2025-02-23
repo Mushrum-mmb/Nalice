@@ -64,7 +64,7 @@ Features:
 
 .
 
-
+.
 
 .
 
@@ -82,11 +82,25 @@ Features:
 
 .
 
+.
 
+.
+
+.
+
+.
 
 .
 
 
+.
+
+.
+
+
+.
+
+.
 
 ### 🎓 Features
 * 65% Arisu style layout - 68 keys, including arrow keys, rotary encoder and OLED Display!!!

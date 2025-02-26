@@ -55,5 +55,3 @@ Please check how to switch to bootloader mode on your Pro Micro first.
 
 Then download the firmware in [release tab](https://github.com/Mushrum-mmb/Nalice/releases) or build it for yourself, overlaying or changing the keymap.
 
-### 🎓 Build the firmware for yourself
-

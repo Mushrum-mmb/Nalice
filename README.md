@@ -1,4 +1,6 @@
 # Nalice
+# Work in progress
+
 ⭐ Star me on GitHub — it motivates me a lot!
 
 🔥 Share it if you like it!!!

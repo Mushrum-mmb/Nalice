@@ -1,5 +1,5 @@
 # Nalice
-# Work in progress
+# Work in progress ⏳
 
 ⭐ Star me on GitHub — it motivates me a lot!
 
@@ -53,7 +53,7 @@ Features:
 
 Please check how to switch to bootloader mode on your Pro Micro first.
 
-Then download the firmware below or build it yourself, overlaying or changing the keymap.
+Then download the firmware in [release tab](https://github.com/Mushrum-mmb/Nalice/releases) or build it for yourself, overlaying or changing the keymap.
 
 ### 🎓 Build the firmware for yourself
 
